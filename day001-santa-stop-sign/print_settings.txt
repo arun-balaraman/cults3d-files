@@ -1,0 +1,5 @@
+Santa Stop Sign - Creality K1C print settings
+Lay flat on the bed as exported. No supports, no brim needed.
+Layer height 0.2 mm, 3 walls, 15% infill, elephant-foot compensation 0.15 mm.
+Size 110 x 110 x 4.2 mm, about 50 min, about 35 g PLA.
+Tip: pause at 3.0 mm to swap filament for two-colour raised lettering.
