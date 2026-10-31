@@ -1,0 +1,7 @@
+Poinsettia Twirl - Creality K1C print settings (one piece, print-in-place spinner)
+Lay flat exactly as exported. Do not scale: the 0.6 mm gap around the hub needs 100%.
+PLA (red, silk red or white), 0.2 mm layers (first layer 0.2), 3 walls, 15% infill, supports OFF, brim OFF.
+Elephant-foot compensation 0.15 mm.
+Size 142 x 135 x 9.4 mm, about 2 h 15 min and 45 g.
+After printing, let it cool, hold the hub and twist the petals firmly both ways until the ring spins freely.
+Tip: pause at 8.0 mm and swap to yellow for coloured berry buds.
