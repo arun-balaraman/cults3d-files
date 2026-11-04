@@ -1,0 +1,23 @@
+Jingle Loop - print-in-place endless bell chain, one piece, one colour (Creality K1C, 0.4 mm nozzle)
+
+File: jingle_loop.stl  (88.0 x 58.0 x 8.8 mm: frame + island + 12 linked bells already in place)
+Place it flat exactly as it comes (no rotating, no scaling).
+
+Material:     PLA (green, red, gold or silk all look good)
+Layer height: 0.2 mm (first layer 0.2 mm)
+Walls:        3 perimeters
+Top/bottom:   4 / 4 layers
+Infill:       15% gyroid
+Supports:     OFF
+Brim:         OFF (a brim would glue the bells to the frame at the bed)
+Elephant-foot compensation: 0.15 mm
+Seam:         aligned or rear
+Speed:        normal K1C PLA profile; outer wall <= 200 mm/s
+
+Do not scale: the 0.6 mm gaps only work at 100%.
+
+After printing: let it cool fully. Hold the frame flat, press a thumb on one bell
+and push it a few millimetres along the track, then back. Do this at 3 or 4 places
+round the loop so every bell breaks free from the bed, then push the whole chain
+round a few full laps both ways. The first lap feels stiff; after that it glides.
+If the island sticks, press it down from underneath while pushing the bells.
