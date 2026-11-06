@@ -1,0 +1,31 @@
+Helix Marble Lift Tower - print settings and assembly
+=====================================================
+Turn the crank and a screw inside the tower lifts marbles up a groove. At the top
+they roll out of the window onto the spiral track and run 3 turns back down to the
+entry arch at the bottom, where the screw picks them up again.
+
+Uses standard 16 mm glass marbles (5-7 at once works well).
+
+Parts (all print in the orientation of the STL, no supports):
+  tower_with_track.stl  96 x 96 x 214 mm  ~255 g  ~6.5 h  (track underside is 45 deg, self-supporting)
+  lift_screw.stl        28 x 28 x 214 mm  ~26 g   ~1 h    (prints standing up; use a brim, 5 mm)
+  top_cap.stl           47 x 47 x 12 mm   ~9 g    (flat top on the bed)
+  crank.stl             58 x 20 x 34 mm   ~7 g    (arm flat on the bed)
+Total about 300 g of PLA and about 8 h on a Creality K1C.
+
+Settings: PLA, 0.2 mm layers, 3 walls, 15% gyroid infill, no supports.
+Lift screw: 4 walls or 100% infill on the shaft for stiffness, brim on.
+Lightly sand the inside of the groove and the track floor if marbles snag.
+
+Assembly:
+  1. Drop the lift screw into the tower bore, flat end first. The socket in its
+     bottom sits on the pin in the tower floor.
+  2. Slide the top cap over the screw shaft, spigot down, into the top of the tower.
+  3. Push the crank onto the D-shaped shaft end (it only fits one way).
+  4. Drop marbles into the entry arch at the bottom (or onto the track).
+  5. Turn the crank CLOCKWISE (seen from above). About 6 turns lifts a marble to the top.
+
+Clearances: 1 mm between screw flight and bore, 0.6 mm round each marble in the groove,
+0.5 mm at the cap, 1 mm between crank arm and battlements.
+
+Fresh design that hasn't been test-printed yet - please share a make!
