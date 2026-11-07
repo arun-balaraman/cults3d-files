@@ -1,0 +1,31 @@
+Floating Tensegrity Planter - print settings and assembly
+=========================================================
+A twisted octagon pot that seems to float above its plinth. The two crossing arms
+never touch: one short string loop between them carries all the weight, and three
+outer strings keep the tray level. It's a tensegrity structure.
+
+Parts (print in the STL orientation, no supports):
+  plinth.stl         104 x 104 x 85 mm  ~42 g  (base with the rising arm)
+  floating_tray.stl   92 x 92 x 71 mm   ~31 g  (prints upside down: flat top on the bed, arm up)
+  twisted_pot.stl     84 x 84 x 55 mm   ~45 g  (prints upright; vase-like twist)
+Total about 120 g of PLA and about 4 h on a Creality K1C.
+
+Settings: PLA, 0.2 mm layers, 3 walls, 15% infill, no supports. Brim optional for the two arm parts.
+Silk or marble PLA looks great. The pot has no drainage hole: use it for a succulent in its
+nursery pot, an air plant, a faux plant or as a desk tidy.
+
+You also need about 1 m of strong thread: 0.5-0.8 mm braided fishing line is ideal.
+
+Assembly:
+  1. Central loop: thread the line through the small sideways hole in the plinth arm and the
+     hole in the tray arm, and tie a loop so the two arms sit about 24 mm apart (hole to hole).
+     The tray now hangs from the plinth arm.
+  2. Outer strings: hold the tray level and centred, then run a string through each of the
+     3 holes in the tray edge down to the matching hole in the plinth. Knot underneath (the
+     plinth has knot recesses on its bottom). Pull all three snug and even.
+  3. If the tray leans, tighten the string on the high side or loosen the low one.
+  4. Set the pot on the engraved octagon outline on the tray.
+
+Keep loads light (a small plant, under ~250 g).
+
+Fresh design that hasn't been test-printed yet - please share a make!
