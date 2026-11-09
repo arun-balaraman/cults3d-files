@@ -1,0 +1,20 @@
+Battery Waterfall - print settings
+==================================
+A gravity battery dispenser for AA and AAA cells. Drop batteries in the slots at the
+top: they roll down the zig-zag ramps and queue up. Take one from the pocket at the
+bottom and every battery above rolls down one place.
+
+Holds about 25 AA (left) and 33 AAA (right).
+Size 149 x 159 x 60 mm. One piece.
+
+Print: lying on its BACK (as the STL is oriented), no supports.
+PLA, 0.2 mm layers, 3 walls, 15% infill. About 230 g and 5 h on a Creality K1C
+(the ramps and walls are thin, so most of it prints as solid perimeters).
+Ramp windows have pointed tops and the front lips are chamfered, so nothing bridges.
+
+Use: stand it on a desk or shelf, or hang it on the wall with 2 screws through the
+keyholes in the back (screw heads up to 8 mm).
+Load batteries through the slots in the top, flat end first, any way round.
+Ramps slope 8 degrees; if a battery hesitates, a light sand of the ramp tops helps.
+
+Fresh design that hasn't been test-printed yet - please share a make!
