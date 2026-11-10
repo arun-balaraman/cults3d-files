@@ -1,0 +1,28 @@
+Rip-Rack Spinning Top - print settings and how to use
+=====================================================
+A rip-cord style spinning top launcher. The launcher has a gear (pinion) that prints
+in place inside it; a toothed rack slides through the side. Rip the rack out and the
+pinion spins the top through a hex socket at up to a few thousand rpm.
+
+Parts (print as oriented in the STLs, no supports, no glue):
+  launcher_print_in_place.stl   82 x 52 x 22 mm  ~30 g  (housing + captive pinion, ONE print)
+  rip_rack.stl                  199 x 44 x 5 mm  ~10 g  (lay it diagonally if your bed is tight)
+  spinning_top.stl              48 x 48 x 54 mm  ~25 g  (prints upside down: hex stem on the bed)
+Total about 65-70 g of PLA and about 2.5 h on a Creality K1C.
+
+Settings: PLA, 0.2 mm layers.
+  Launcher and rack: 3 walls, 20% infill.
+  Top: 4 walls, 40% infill (a heavier, solid rim spins longer). Print it slowly near the
+  tip for a clean point. Turn OFF "elephant foot compensation" only if the hex stem is loose.
+After printing the launcher, turn the pinion with a finger through the bottom hole until
+it spins freely (it is printed with 0.5 mm clearance).
+
+How to use:
+  1. Push the rack into the launcher's side slot (teeth towards the gear) until the
+     ring stops at the housing.
+  2. Stand the top on a smooth table and lower the launcher onto its hex stem.
+  3. Hold the grip, rip the rack out in one fast pull, then lift the launcher straight up.
+Gear: module 1.5, 12-tooth pinion; rack has a shortened tip to avoid undercut,
+0.4 mm backlash per flank (checked over a full tooth pitch). Hex fit: 6.0 mm stem in a 6.6 mm socket.
+
+Fresh design that hasn't been test-printed yet - please share a make!
