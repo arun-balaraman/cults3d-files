@@ -1,0 +1,22 @@
+Push-Bloom Lily - print settings and assembly (Creality K1C or any printer)
+
+PLA, 0.4 mm nozzle, 0.2 mm layers, 3 walls, 20% infill, NO supports. Print each file as oriented.
+stem.stl               upright (flange on the bed), 113 mm tall      ~22 g / 70 min
+plunger.stl            disc on the bed, rod pointing up               ~9 g  / 25 min  (slow down or print with the stem for cooling)
+petals_x6.stl          all six petals, flat side down, tails up       ~11 g / 35 min  (pink!)
+flower_centre_cap.stl  engraved face on the bed                        ~1 g  / 6 min   (yellow)
+button.stl             flat on the bed                                  ~2 g  / 8 min
+Total about 45 g and 2.5 h. Pause-free colour: print petals in pink, cap in yellow, the rest in green.
+
+Clearances: 0.4 mm rod in the stem, 0.35 mm knob in the plunger head, axle 1.2 mm radius in a 1.6 mm seat.
+
+ASSEMBLY (no glue)
+1. Slide the plunger rod down through the top of the stem until the slotted disc sits in the cup.
+2. Press the button onto the rod end under the stem (tight press fit; a drop of glue is optional).
+3. Pull the button down (bud closed). Hold a petal upright, tail pointing inward, lay its knob on the
+   slotted disc either side of a slot, and press its axle down into the snap slots in the cup until it clicks.
+   Repeat for all six petals.
+4. Press the yellow centre cap's peg into the hole in the middle of the plunger disc. The knobs are now
+   trapped between the two slotted discs.
+5. Push the button: the lily opens. Pull it: it closes.
+If a petal snap is too tight, shave the slot lips with a knife; if too loose, a dab of glue on the post tops.

@@ -1,0 +1,14 @@
+Snow Globe Scene Lamp - print settings (Creality K1C, any bed 140 mm+)
+
+Filament: WHITE or natural PLA (the discs only glow in a light colour). 0.4 mm nozzle, 0.2 mm layers, no supports.
+
+pedestal.stl                 136 x 90 x 26 mm   3 walls, 15% infill          ~85 g, ~3 h
+globe_disc_cabin.stl         100 x 112 x 3 mm   100% infill, flat side down  ~20 g, ~50 min
+globe_disc_village.stl       same
+globe_disc_tree.stl          same
+Discs: print FLAT side down at 100% infill (or 4+ walls) so the light passes evenly. Do not scale in Z:
+the glow depends on the 0.8 mm sky, 0.4 mm snow/windows and 3 mm silhouettes.
+
+Use: put a 38 mm LED tea light (battery, NOT a real candle) in the round pocket at the back,
+slide a disc into the front slot (flat face to the front), switch on and dim the room.
+Swap discs any time. Slot fits a 3 mm tab with 0.5 mm play.
