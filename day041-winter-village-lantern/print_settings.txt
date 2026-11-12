@@ -1,0 +1,14 @@
+Winter Village Lantern - print settings
+=======================================
+One part: winter_village_lantern.stl (142 x 142 x 91 mm), prints exactly as exported, base down.
+Material: PLA. White or natural/translucent gives the best glow; any light colour works.
+Layer height: 0.2 mm   Walls: 2 (house walls are 1.6 mm, so they print as two clean perimeters)
+Infill: 10-15%   Supports: NONE   Brim: not needed (big flat base)
+Roofs are 52 degrees, so the inside ceilings print without supports. Windows have pointed tops;
+the little glazing bars are short bridges (5-6.5 mm).
+About 110 g and about 4 h on a K1C at standard speed.
+
+Use
+- Put a 38 mm battery LED tea light (flicker type looks great) in the round recess in the middle square.
+- Light pours through every doorway into the houses and out of all the windows. Turn off the room lights.
+- Please don't use a real flame candle: PLA softens with heat.
