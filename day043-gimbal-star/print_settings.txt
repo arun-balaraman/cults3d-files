@@ -1,0 +1,15 @@
+Gimbal Star - print settings
+============================
+Parts:
+  gimbal_print_in_place.stl  five nested rings + star disc, printed in place, flat on the bed  ~41 g, ~1.5 h
+  stand.stl                  prints as exported (base down)                                 ~27 g, ~1 h
+Material: PLA (silk gold/rainbow looks fantastic), 0.2 mm layers, 3 walls, 15% infill, NO supports.
+Print the gimbal at normal speed with good cooling; do not use a brim (it can glue the rings together).
+
+Freeing it: when the print is cool, hold the outer ring and gently twist each inner ring until the tiny
+pivot pins break free (0.6 mm clearance all round). Work from the outside in. A first "crack" is normal.
+The pins are short horizontal cones, the same trick most print-in-place gimbals use; they print fine at
+0.2 mm with cooling on.
+
+Display: drop the two knobs on the outer ring into the V notches on the stand. Flick any ring and the whole
+thing tumbles; each ring pivots at right angles to the one around it.
