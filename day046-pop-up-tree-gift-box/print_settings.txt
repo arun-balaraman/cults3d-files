@@ -1,0 +1,40 @@
+Pop-Up Tree Gift Box - Day 46 of 365 (designed in Autodesk Fusion)
+===================================================================
+
+PRIMARY: Bambu Lab X2D + AMS 2 Pro (Bambu Studio)
+-------------------------------------------------
+Open pop_up_tree_gift_box_X2D.3mf. Everything is on one plate, colours assigned:
+  AMS slot 1  red    #C8202A  -> gift box + lid
+  AMS slot 2  white  #F5F5F0  -> ribbon inlays (1 mm, on box sides and lid)
+  AMS slot 3  green  #1E8C46  -> 3-tier tree (prints in place INSIDE the box)
+  AMS slot 4  gold   #E6B428  -> star
+Material: PLA. Layer height 0.2 mm, 3 walls, 15% infill, NO supports, no brim.
+Orientation is already set: box upright with the tree inside it (print in
+place), lid top-face-down (ribbon cross on the bed), star flat.
+About 165 g and roughly 6 h on the X2D (estimate, slice to confirm).
+Keep "Avoid crossing walls" on and do not add supports: the gaps between the
+box and the tree (1.0 mm) and between tiers (1.8 mm+) must stay clear.
+
+SECONDARY: Creality K1C (single colour)
+---------------------------------------
+gift_box_red.stl + tree_green_print_in_place.stl together (they are already
+positioned to print in place), lid_red.stl and star_gold.stl separately.
+Skip the ribbon files (the box/lid simply stay plain) or print them as a
+separate colour. Fits the 220 x 220 bed.
+
+AFTER PRINTING
+--------------
+1. Take the box off the bed. Turn it over and give the tree a gentle push from
+   underneath (the box is an open sleeve) to free the tiers.
+2. Press the star onto the square post on top of the tree.
+3. Pull the star up: each tier slides out and clicks onto a small wedge at
+   full height. Tree top ends about 210 mm above the table.
+4. Push down firmly on the star to collapse it back, then put the lid on.
+   You can hide a gift card, money roll or small present on top of the tree.
+
+KEY DIMENSIONS (listed as user parameters in pop_up_tree_gift_box.f3d)
+box_w 80, box_h 78, wall 2.4, tier_h 42, tier_wall 1.6, slide_gap 0.8,
+wedge 0.25, lid_gap 0.4, ribbon_w 12 (mm). STEP included to remix.
+If the click is too stiff on your printer, sand the small lock wedges lightly.
+
+Fresh design, not test printed yet. Please post a make if you try it!
