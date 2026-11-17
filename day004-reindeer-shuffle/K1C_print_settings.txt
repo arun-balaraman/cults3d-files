@@ -1,0 +1,23 @@
+Reindeer Shuffle - print-in-place sliding puzzle ornament, one piece, one colour (Creality K1C, 0.4 mm nozzle)
+
+File: reindeer_shuffle.stl  (61.6 x 71.6 x 9.0 mm: frame + 8 tiles already in place)
+Place it flat exactly as it comes (no rotating, no scaling).
+
+Material:     PLA (red, green, white or silk all look good)
+Layer height: 0.2 mm (first layer 0.2 mm)
+Walls:        3 perimeters
+Top/bottom:   4 / 4 layers
+Infill:       15% gyroid
+Supports:     OFF
+Brim:         OFF (a brim would glue the tiles to the frame at the bed)
+Elephant-foot compensation: 0.15 mm
+Seam:         aligned or rear
+Ironing:      optional, top surfaces only (makes the raised picture crisper)
+
+Do not scale: the 0.6 mm gaps only work at 100%.
+
+After printing: let it cool fully. Hold the frame and push the tile next to the
+empty corner sideways into the gap with your thumb, then push it back. Do this
+for each tile next to the gap, then shuffle a few times. The first moves feel
+stiff while the thin skin at the bed breaks; after that the tiles glide.
+If one tile is stuck, press on it from underneath while sliding it.

@@ -1,0 +1,37 @@
+Zig-Zag Reacher - Day 44 of 365
+================================
+
+PRIMARY: Bambu Lab X2D + AMS 2 Pro (Bambu Studio)
+-------------------------------------------------
+Open zig_zag_reacher_X2D.3mf. Colours are already assigned:
+  AMS slot 1  orange  #FF7A1A  -> links A (the 4 bottom links)
+  AMS slot 2  teal    #14A6A6  -> links B (the 4 top links)
+  AMS slot 3  white   #FFFFFF  -> 12 snap pins (10 needed + 2 spares)
+Each part is a single colour, so there are only a few filament changes per plate.
+Tip: put orange on the left nozzle and teal on the right to cut swaps further,
+or split into 3 plates (one per colour) if you prefer zero purge waste.
+
+Material: PLA (PLA+ or PETG fine for the links)
+Layer height: 0.2 mm, first layer 0.2 mm
+Walls: 3, top/bottom 4 layers, infill 20% gyroid
+Supports: none. Brim: none (pins: optional 3 mm brim if your bed is slippery)
+Plate size: 184 x 151 mm, about 30 g, about 1.5 h on the X2D.
+
+SECONDARY: Creality K1C (single colour)
+---------------------------------------
+Load the three STLs separately. They fit on the 220 x 220 bed together.
+Print in one colour, or print each STL as its own plate in a different colour.
+Same settings as above, about 1 h 50 min.
+
+ASSEMBLY (2 minutes)
+--------------------
+1. Lay the 4 orange links flat in a zig-zag row ("/" direction).
+2. Lay the 4 teal links on top so they cross the orange ones, with the
+   countersunk holes facing up. The teal finger ring sits next to the orange one.
+3. Push a white pin up from below through each pair of matching holes
+   (orange first, then teal) until the barb clicks above the teal link.
+4. Open and close it a few times. Squeeze the two finger rings to shoot the
+   jaws out; open your fingers to pull them back.
+
+Size: 132 mm relaxed, 218 mm fully reached (jaws close at full reach).
+Fresh design, not test printed yet. Please post a make if you try it!

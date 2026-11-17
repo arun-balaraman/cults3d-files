@@ -1,0 +1,28 @@
+Geneva Dice Stepper - print settings and assembly
+=================================================
+Turn the handle round and round: the pin on the orange driver drops into a slot,
+flicks the 6-slot Geneva wheel exactly one sixth of a turn (the next dice face lines
+up with the arrow) and then the locking disc holds it solid until the next turn.
+The same intermittent motion used in film projectors and old watches.
+
+Parts (print in the STL orientation, no supports, no glue):
+  base.stl          131 x 99 x 15 mm  ~36 g  (two axle posts)
+  driver.stl         51 x 40 x 29 mm  ~9 g   (pin, locking disc and handle)
+  geneva_wheel.stl   81 x 89 x 10 mm  ~14 g  (prints face down: the dice pips are on the bed side)
+Total about 60 g of PLA and about 2 h on a Creality K1C.
+
+Settings: PLA, 0.2 mm layers, 3 walls, 20% infill, no supports.
+Two colours look great (swap filament between parts). First layer squish matters for the
+wheel's pips; if the pips close up, reduce elephant-foot compensation.
+
+Assembly:
+  1. Drop the wheel onto the post at the round end of the base, pips up.
+  2. Drop the driver onto the other post, pin side towards the wheel.
+     Turn the driver until its round locking disc sits in one of the wheel's curved notches.
+  3. Turn the handle anticlockwise (seen from above). One full turn = one step of the wheel.
+Nothing snaps in: gravity holds the parts, so you can lift them off any time.
+
+Clearances: 0.5 mm round the pin in the slots, 0.6-0.7 mm between the locking disc and
+the wheel, 0.45 mm on the axles, 0.6 mm above the base.
+
+Fresh design that hasn't been test-printed yet - please share a make!

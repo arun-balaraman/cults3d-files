@@ -1,0 +1,7 @@
+Sleeps Till Christmas - Creality K1C print settings (one piece, print-in-place)
+Lay flat exactly as exported. Do not scale: the 0.6 mm dial gaps need 100%.
+PLA, 0.2 mm layers (first layer 0.2), 3 walls, 15% infill, supports OFF, brim OFF.
+Elephant-foot compensation 0.15 mm.
+Size 92 x 105 x 9 mm, about 1 h 40 min and 35 g.
+After printing, let it cool, then twist each dial firmly both ways until it spins freely.
+Tip: pause at 2.4 mm and swap to white for two-colour lettering on the house.

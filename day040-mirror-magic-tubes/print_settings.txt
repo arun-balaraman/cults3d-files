@@ -1,0 +1,15 @@
+Mirror Magic Shape Tubes - print settings
+=========================================
+Parts (4): tube_circle_to_square, tube_circle_to_diamond, tube_circle_to_triangle, display_base
+Material: PLA (bright colours look best, one colour per tube)
+Layer height: 0.2 mm   Walls: 2 (tube walls are 1.8 mm, so they print solid)
+Infill: 15% (base only)   Supports: NONE   Brim: optional on the tubes
+Orientation: everything prints as exported, flat side down. The wavy rims are the top of each tube.
+Approx: tubes 33 g / 1.5 h together, base 72 g / 2 h. Total ~105 g, ~3.5 h.
+
+How to show it off
+- Push each tube into its socket (1 dot = square, 2 dots = diamond, 3 dots = triangle).
+- Slide a mirror tile (any flat mirror up to 5 mm thick and about 170 mm wide, taller is better) into the back slot.
+- Look down at the tubes from about 40 degrees above the table: all three rims look like circles.
+- Now look at the reflection: square, diamond and triangle. Close one eye (or film it on a phone) for the strongest effect.
+- Turn a tube around 180 degrees and the illusion swaps over.

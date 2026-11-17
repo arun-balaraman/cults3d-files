@@ -1,0 +1,23 @@
+Twin-Turn Spice Carousel - print settings (Creality K1C or any 220 x 220 mm printer)
+
+All parts: PLA, 0.4 mm nozzle, 0.2 mm layers, 3 walls, 15% gyroid infill, NO supports, no brim needed
+(brim optional on the base halves). Print every part flat side down exactly as the STL is oriented.
+
+File                          Qty  Size (mm)          Est. filament / time each
+base_half_print_x2.stl        2    185 x 186 x 24     ~110 g / ~3.5 h   (same file twice)
+turntable_print_x2.stl        2    155 x 155 x 18     ~70 g  / ~2.5 h
+roller_cage_print_x2.stl      2    132 x 132 x 3      ~30 g  / ~1 h
+rollers_12_print_x2.stl       2    47 x 34 x 14       ~9 g   / ~40 min  (12 rollers per plate, 24 total)
+keys_set_print_x1.stl         1    46 x 44 x 24       ~6 g   / ~20 min  (3 floor keys + 2 wall keys)
+Total about 440 g and ~16 h of printing, spread over 9 plates.
+
+Fit: 0.6 mm post/bore clearance, 0.6 mm gear backlash (module 3, 50 teeth, 20 deg involute), 0.2 mm key clearance.
+If your printer runs tight, scale ONLY the keys to 98%.
+
+ASSEMBLY (no glue, no screws, no metal)
+1. Put the two base halves end to end on the table, cut faces touching.
+2. Drop the 3 small bow-tie keys into the floor slots along the join (y = 0 and +-45 mm).
+3. Slide the 2 tall bow-tie keys down into the slots in the side bosses. The tray is now one piece.
+4. Lay 12 rollers in the pockets of each cage, then lower each cage over a centre post; it rests on the post shoulder.
+5. Lower each turntable over its post so it sits on the rollers; turn one slightly so the teeth drop into mesh.
+6. Spin either turntable: both turn (in opposite directions). Lift a turntable straight up to clean underneath.

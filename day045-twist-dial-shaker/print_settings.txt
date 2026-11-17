@@ -1,0 +1,37 @@
+Twist-Dial Spice Shaker - Day 45 of 365 (designed in Autodesk Fusion)
+=====================================================================
+
+PRIMARY: Bambu Lab X2D + AMS 2 Pro (Bambu Studio)
+-------------------------------------------------
+Open twist_dial_shaker_X2D.3mf. Everything is on one plate, colours assigned:
+  AMS slot 1  white      #F4F1EA  -> jar + lid
+  AMS slot 2 terracotta #D2553A  -> dial
+  AMS slot 3  charcoal   #2B2B2B  -> position icons (1 mm inlay in the lid top,
+                                     only the first 5 layers of the lid)
+Material: PLA (PETG is better for a jar that gets washed). Food note: use a
+food-safe filament and treat printed jars as dry-spice storage, hand wash only.
+Layer height 0.2 mm, 3 walls, 15% infill, no supports, no brim.
+Orientation is already set: jar upright, lid TOP-FACE-DOWN (icons on the bed),
+dial TOP-FACE-DOWN with its snap post pointing up.
+About 70 g and 2.5 h on the X2D.
+
+SECONDARY: Creality K1C (single colour)
+---------------------------------------
+Use jar_white.stl, lid_white.stl and dial_terracotta.stl (fits the 220 x 220 bed).
+Skip icons_charcoal.stl (the icon pockets just stay as 1 mm recesses), or do a
+filament change at Z 1.0 mm on the lid. Same settings, about 3 h.
+
+ASSEMBLY
+--------
+1. Push the dial's split post down through the centre hole of the lid until it
+   clicks under the lid plate. It should turn with a click at each position.
+2. Fill the jar, screw the lid on (1.5 turns).
+3. Positions (clockwise): X closed, 3 small dots fine, 2 big dots coarse,
+   oval = pour spout.
+
+FUSION PARAMETERS (Modify > Change Parameters in twist_dial_shaker.f3d)
+jar_d 62, jar_h 95, wall 2, thread_pitch 2.5, thread_clear 0.4,
+hole_small 2, hole_large 4, dial_clear 0.3, detent_h 0.5 (mm).
+If the lid is tight on your printer, open thread_clear slightly.
+
+Fresh design, not test printed yet. Please post a make if you try it!

@@ -1,0 +1,11 @@
+Twisted Lattice Tower - print settings (Creality K1C or any printer)
+
+PLA (silk or marble PLA looks great), 0.4 mm nozzle, 0.2 mm layers, 2 walls, 15% infill (rods print solid anyway),
+NO supports, no brim needed (the scalloped base ring is 103 mm wide). One piece, ~75 g, ~3.5 h.
+
+Tips: the rods are many small islands per layer, so
+- turn on "avoid crossing walls" and keep retraction on, to limit stringing;
+- keep part cooling at 100%; outer-wall speed 100-150 mm/s is fine on the K1C;
+- every rod leans 24 deg from vertical (well under 45), and the top ring sits on 48 rod ends spaced ~5 mm apart,
+  so no bridging problems.
+The base has a 1.6 mm floor, so it holds pens, brushes or dried flowers (not water).

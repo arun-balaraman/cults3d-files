@@ -1,0 +1,28 @@
+Crank Wave Machine - print settings and assembly
+================================================
+Turn the hand wheel: a twisted eccentric camshaft lifts 12 sliders one after another and the tiles on top
+roll like an ocean wave (one full wave across the machine, 15 mm rise and fall).
+
+Parts (print 1 of each, except the slider):
+  frame.stl               base + two towers, prints as is                      ~74 g
+  guide_beam.stl          prints upside down as exported (tongues up)           ~24 g
+  twisted_camshaft.stl    prints standing up, 195 mm tall: USE A BRIM (5-8 mm)  ~29 g
+  journal_pin.stl         prints as exported (round end down)                    ~1 g
+  slider_print_12.stl     PRINT 12, tile flat on the bed                         ~4 g each
+  hand_wheel.stl          prints flat, knob up                                   ~7 g
+Total about 180 g and 7 h. Everything fits a 220 x 220 bed.
+
+Settings: PLA, 0.2 mm layers, 3 walls, 15% infill, NO supports. Camshaft: 3 walls, 20% infill, brim,
+slow outer walls a little for the tall part. Two colours look great (blue sliders, orange camshaft) but
+one colour works fine.
+
+Assembly (no glue, no screws)
+1. Push the journal pin's D end into the D socket in the flat end of the camshaft (snug fit; a drop of
+   superglue is optional if yours is loose).
+2. Lay the camshaft in the frame: the pin drops into the U slot of the left tower, the round journal at the
+   other end into the right tower's slot. The D shaft end sticks out on the right.
+3. Set the guide beam on the tower tops so its two tongues slide down into the slots: they hold the shaft
+   in place.
+4. Drop the 12 sliders, rounded foot first, through the square holes in the beam. They rest on the camshaft.
+5. Push the hand wheel onto the D end. Turn and watch the wave.
+Tip: a little dry PTFE lube or candle wax on the camshaft makes it glide.

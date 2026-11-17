@@ -1,0 +1,19 @@
+Shake-Sort Coin Tower (Australian coins) - print settings (Creality K1C or any 120 x 120 mm+ bed)
+
+PLA, 0.4 mm nozzle, 0.2 mm layers, 3 walls, 15% infill, NO supports, one part per plate, as oriented in the STL.
+Turn elephant-foot compensation ON (0.15 mm) and keep horizontal hole expansion at 0 so the hole sizes stay true.
+
+File                   Keeps   Hole dia   ~g / ~time
+tray1_top_50c.stl      50c     30.2 mm    28 g / 45 min
+tray2_20c.stl          20c     26.8 mm    30 g / 45 min
+tray3_1dollar.stl      $1      24.3 mm    30 g / 45 min
+tray4_10c.stl          10c     22.0 mm    29 g / 45 min
+tray5_2dollar.stl      $2      19.95 mm   30 g / 45 min
+tray6_bottom_5c.stl    5c      (solid)    35 g / 45 min
+lid.stl  (prints top face down, "SHAKE" reads correctly when flipped)  35 g / 40 min
+Total about 200 g and 5.5 h.
+
+Stack from the bottom up: 5c, $2, 10c, $1, 20c, 50c, lid (the labels on the front go 50c..5c top to bottom).
+Pour coins into the top tray, put the lid on, hold the tower with both hands and shake side to side for ~10 s.
+Tightest step is $2 (20.5 mm) vs 5c (19.4 mm): if a 5c sticks in the $2 tray, check that your $2 tray holes
+measure ~19.9 mm; if a $2 slips through, scale ONLY tray5 to 99%.

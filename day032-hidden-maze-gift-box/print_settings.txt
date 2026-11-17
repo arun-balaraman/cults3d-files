@@ -1,0 +1,13 @@
+Hidden Maze Gift Box - print settings (Creality K1C or any printer)
+
+PLA, 0.4 mm nozzle, 0.2 mm layers, 3 walls (the walls are thin, so this is nearly solid), 15% infill, NO supports.
+maze_cup.stl  - prints upright on its gripped flange.            ~33 g, ~1 h 40 min
+maze_lid.stl  - prints upside down (cap on the bed), pins at top. ~30 g, ~1 h 20 min
+Print at 100% scale. Elephant-foot compensation 0.15 mm helps the lid slide over the flange.
+Seam position: "aligned" or "back" so the seam doesn't land on the pins.
+
+Use: slide the lid down over the cup so the two pins drop into the entry slots at the rim, then twist and
+push/lift to follow the maze down to the bottom ("home"); the lid then sits on the flange and can't be
+lifted off. To open, find the way back out. The maze is the same on both sides (one per pin).
+The solution is in solution_spoiler.png. Gaps: 0.4 mm lid to cup, ~0.55 mm pins to maze walls.
+If it feels tight, sand the pins lightly; don't scale the parts.
