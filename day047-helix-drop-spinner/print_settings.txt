@@ -1,0 +1,40 @@
+Helix Drop Spinner - Day 47 of 365 (designed in Autodesk Fusion)
+================================================================
+
+PRIMARY: Bambu Lab X2D + AMS 2 Pro (Bambu Studio)
+-------------------------------------------------
+Open helix_drop_spinner_X2D.3mf. Three objects on one plate, colours assigned:
+  AMS slot 1  teal   #148C96  -> stand base + cap
+  AMS slot 2  white  #F5F5F0  -> twisted helix bar + disc
+  AMS slot 3  black  #19191C  -> Benham pattern (1 mm inlay, first 5 layers
+                                 of the disc only)
+Material: PLA. Layer height 0.2 mm, 3 walls, 15% infill, no supports, no brim
+(add a small brim on the stand if your bed adhesion is weak: the bar is tall).
+Orientation is already set: stand upright (base on the bed, bar up), cap
+top-face-down, disc top-face-down (pattern on the bed).
+Roughly 65 g and 3 h on the X2D (estimate, slice to confirm).
+The colour change on the stand is a single swap at Z 10 mm (base -> bar).
+
+SECONDARY: Creality K1C (single colour)
+---------------------------------------
+stand_base_teal.stl + stand_helix_white.stl together (one stand),
+cap_teal.stl and rider_white.stl. Skip rider_pattern_black.stl (the disc is
+then plain) or do a filament change at Z 1.0 mm on the disc.
+Fits the 220 x 220 bed.
+
+ASSEMBLY
+--------
+1. Slide the disc onto the twisted bar from the top, pattern side up. It
+   should corkscrew down freely. If it rubs, sand the bar edges lightly.
+2. Press the cap onto the square peg at the top of the bar (5 mm peg,
+   5.3 mm socket). A drop of glue is optional if your printer runs loose.
+3. Play: flip the whole thing over like an hourglass. The disc spins its way
+   down the helix. Watch the black-and-white Benham pattern: many people see
+   faint coloured rings while it spins (works best under bright LED light).
+
+KEY DIMENSIONS (user parameters in helix_drop_spinner.f3d)
+base_d 80, bar_len 130, twist 540 deg, bar_w 14, bar_t 4.5,
+slide_gap 0.6 per side, rider_d 66, peg_fit 0.3 (mm).
+STEP included to remix (e.g. a longer bar or more twist).
+
+Fresh design, not test printed yet. Please post a make if you try it!
