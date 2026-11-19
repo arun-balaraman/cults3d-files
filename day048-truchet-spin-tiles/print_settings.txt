@@ -1,0 +1,40 @@
+Truchet Spin Tiles - Day 48 of 365 (designed in Autodesk Fusion)
+================================================================
+
+PRIMARY: Bambu Lab X2D + AMS 2 Pro (Bambu Studio)
+-------------------------------------------------
+Open truchet_spin_tiles_X2D.3mf. Back plate + 7 tiles on one plate, colours set:
+  AMS slot 1  charcoal  #2D2F34  -> back plate
+  AMS slot 2  white     #F5F5F0  -> tiles
+  AMS slot 3  orange    #F06E1E  -> Truchet arcs (1 mm inlay, first 5 layers
+                                    of each tile only)
+Material: PLA. Layer height 0.2 mm, 3 walls, 15% infill, no supports, no brim.
+Orientation is already set: plate back-down (keyhole on the bed side), tiles
+face-down (arcs on the bed) with the snap post pointing up.
+Roughly 80 g and 3.5 h on the X2D (estimate, slice to confirm).
+Tip: a textured PEI plate gives the tile faces a nice matte finish.
+
+SECONDARY: Creality K1C (single colour)
+---------------------------------------
+plate_charcoal.stl once, tile_white.stl x7. Skip tile_arcs_orange.stl and do
+a filament change at Z 1.0 mm on the tiles (or leave them plain and paint the
+1 mm arc recesses). Fits the 220 x 220 bed.
+
+ASSEMBLY
+--------
+1. Push each tile's split snap post into a hole in the plate until the barb
+   clicks behind the plate (it sits inside the counterbore, so the back stays
+   flat on the wall).
+2. Turn tiles: each one clicks every 60 degrees (6 small bumps drop into
+   dimples). The arcs always meet the tile edges at the midpoints, so every
+   combination makes a continuous flowing line pattern.
+3. Hang it on one screw using the keyhole on the back (centre, near the top
+   when the plate is held with a point at the top or a flat at the top -
+   both work, the keyhole slot runs along the plate's Y axis).
+
+KEY DIMENSIONS (user parameters in truchet_spin_tiles.f3d)
+tile_f2f 40, tile_t 5, tile_pitch 46, plate_t 5, post_clear 0.3,
+barb 0.7, arc_w 6, inlay 1 (mm). STEP included to remix.
+Print more tiles than you need: they swap freely between holes.
+
+Fresh design, not test printed yet. Please post a make if you try it!
