@@ -28,9 +28,8 @@ ASSEMBLY
 2. Turn tiles: each one clicks every 60 degrees (6 small bumps drop into
    dimples). The arcs always meet the tile edges at the midpoints, so every
    combination makes a continuous flowing line pattern.
-3. Hang it on one screw using the keyhole on the back (centre, near the top
-   when the plate is held with a point at the top or a flat at the top -
-   both work, the keyhole slot runs along the plate's Y axis).
+3. Hang it on one screw (head up to 8 mm) using the keyhole on the back,
+   just above the centre tile. Hang it with a flat edge at the top.
 
 KEY DIMENSIONS (user parameters in truchet_spin_tiles.f3d)
 tile_f2f 40, tile_t 5, tile_pitch 46, plate_t 5, post_clear 0.3,
