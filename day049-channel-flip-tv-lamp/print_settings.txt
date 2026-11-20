@@ -1,0 +1,55 @@
+Channel-Flip TV Lamp - Day 49 of 365 (designed in Autodesk Fusion)
+==================================================================
+
+A retro TV night-light. The white drum inside is a 4-sided lithophane with a
+scene on each face (mountains + moon, sailboat, rocket + stars, house + tree).
+Turn the knob on top and the drum turns: a new "channel" shows in the screen.
+
+USE AN LED TEA LIGHT ONLY. Never a real flame: PLA softens and burns.
+
+PRIMARY: Bambu Lab X2D + AMS 2 Pro (Bambu Studio)
+-------------------------------------------------
+Open channel_flip_tv_lamp_X2D.3mf. All 5 parts on one plate, colours set:
+  AMS slot 1  mint      #78C8B2  -> TV cabinet
+  AMS slot 2  white     #F5F5F0  -> channel drum (use plain white PLA, not
+                                    silk or translucent, for the best scenes)
+  AMS slot 3  charcoal  #2D2F34  -> base, channel knob, antenna, 2 dial knobs
+Material: PLA. Layer height 0.16 mm, 3 walls, 15% infill, no supports.
+Per-object setting for the drum: 100% infill (the 0.8 mm windows and 2.8 mm
+silhouettes then print solid, which is what makes the lithophane work).
+Orientation is already set:
+  - cabinet upside-down (roof on the bed, open bottom up). The bottom edge of
+    the screen opening becomes a ~38 mm bridge; Bambu bridges this fine.
+  - drum upright (open end on the bed) so the picture walls stand vertical.
+    Its top plate is a 50 mm bridge, hidden inside the TV.
+  - knob top-down, antenna hub-down, base flat.
+Roughly 210 g and 7.5 h on the X2D (estimate, slice to confirm).
+
+SECONDARY: Creality K1C (single colour)
+---------------------------------------
+Print each STL separately in its own colour (or print everything in one colour
+and paint the knobs). Every part fits the 220 x 220 bed. Keep the drum in white.
+  cabinet_mint.stl, dial_knobs_charcoal.stl, base_charcoal.stl,
+  drum_white.stl, knob_charcoal.stl, antenna_charcoal.stl
+The two dial knobs are separate on the K1C: glue them onto the front face
+(above and below the grille) if you print the cabinet in one colour.
+
+ASSEMBLY (no glue on the X2D version)
+-------------------------------------
+1. Put an LED tea light (38 mm) in the round pocket of the base.
+2. Stand the drum over it, open end down. Its bottom rim drops around the
+   centring ring so it spins on the spot.
+3. Lower the cabinet over the drum onto the base. Two rails and a front lip
+   on the base locate it.
+4. Push the knob's hex shaft through the hole in the roof into the hex socket
+   on top of the drum.
+5. Sit the antenna hub in the round recess on the roof.
+6. Switch the tea light on, turn the knob a quarter turn per channel.
+
+KEY DIMENSIONS (user parameters in channel_flip_tv_lamp.f3d)
+Cabinet 110 x 96 x 84 mm, wall 2.6. Drum 56 x 56 x 62 mm with 0.8 mm picture
+walls and 2.8 mm silhouettes. Hex drive 10 mm across flats in a 10.3 socket.
+Overall 116 x 102 x 147 mm with antenna. STEP included to remix: swap in your
+own scenes on the inside faces of the drum.
+
+Fresh design, not test printed yet. Please post a make if you try it!
