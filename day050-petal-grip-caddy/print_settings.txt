@@ -1,0 +1,44 @@
+Petal-Grip Bathroom Caddy - Day 50 of 365 (designed in Autodesk Fusion)
+=======================================================================
+
+A toothbrush / bathroom caddy whose ports are flexible petal discs instead of
+fixed holes. Push any handle in and the petals bend down and hug it, so thin
+razors, chunky electric-brush handles and toothpaste tubes all stand upright.
+
+PRIMARY: Bambu Lab X2D + AMS 2 Pro (Bambu Studio)
+-------------------------------------------------
+Open petal_grip_caddy_X2D.3mf. Caddy + drip tray on one plate, colours set:
+  AMS slot 1  white     #F6F6F2  -> caddy body
+  AMS slot 2  teal      #2BB3A3  -> 3 small petal ports (first 6 layers only)
+  AMS slot 3  coral     #FF7A59  -> large petal port (first 6 layers only)
+  AMS slot 4  charcoal  #2D2F34  -> drip tray
+Material: PETG recommended for a bathroom (springier petals, water-proof);
+PLA works too. Layer height 0.2 mm, 3 walls, 15% infill, no supports, no brim.
+Orientation is already set: the caddy prints upside-down, top deck on the
+bed, so the petals are the first 1.2 mm and come out flat and smooth. The
+colour change only happens in the first 6 layers, so purge waste is small.
+Roughly 150 g and 4.5 h on the X2D (estimate, slice to confirm).
+Tip: a textured PEI plate gives the top deck a nice matte finish.
+
+SECONDARY: Creality K1C (single colour)
+---------------------------------------
+Load caddy_white.stl, petals_teal.stl and petals_coral.stl together as one
+object (they line up) and print in one colour, or pause for a filament change
+at Z 1.2 mm to get coloured petals. Print tray_charcoal.stl separately.
+Both parts fit the 220 x 220 bed.
+
+USE
+---
+1. Set the tray down, stand the caddy in it (it sits on ribs so water drains
+   off and air dries the bottom).
+2. Push handles straight down through the petals. Small ports: toothbrushes,
+   razors, pens (about 6-22 mm). Large port: toothpaste tube cap-down,
+   electric brush handle, hairbrush (up to about 34 mm).
+3. Lift the caddy off the tray to rinse it.
+
+KEY DIMENSIONS (user parameters in petal_grip_caddy.f3d)
+body_h 100, wall 2.4, petal_t 1.2, slit_w 0.8, ledge 1.0, tray_clear 3 (mm).
+Small ports 24 mm with 8 petals, large port 36 mm with 12 petals. Thinner
+petal_t = softer grip. STEP included to remix (add or move ports).
+
+Fresh design, not test printed yet. Please post a make if you try it!
