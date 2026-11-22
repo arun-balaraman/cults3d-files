@@ -1,0 +1,44 @@
+Facet Cat Stash Box - Day 51 of 365 (designed in Autodesk Fusion)
+=================================================================
+
+A low-poly "papercraft" ginger cat that is secretly a stash box. The head
+twist-locks onto the body with a 3-lug bayonet: no threads, no magnets.
+
+Inspired by the viral Meimei Cat Papercraft (top free download on Cults3D):
+https://cults3d.com/en/search?q=Meimei+Cat+Papercraft
+Our twist: no paper, no glue. It is a solid printed faceted cat, and the head
+twists off to reveal a hidden compartment inside the body.
+
+PRIMARY: Bambu Lab X2D + AMS 2 Pro (Bambu Studio)
+-------------------------------------------------
+Open facet_cat_stash_X2D.3mf. Body and head on one plate, colours set:
+  AMS slot 1  orange  #F08A24  -> body and head
+  AMS slot 2  green   #7BD389  -> eye inlays
+  AMS slot 3  pink    #F49AC1  -> nose and inner-ear inlays
+PLA, 0.2 mm layers, 3 walls, 15% infill, no supports, no brim.
+Both parts print upright as placed (body open end up, head on its flat neck;
+the socket ceiling is a 45 degree cone so it needs no support).
+The inlays span many layers on the head, so keep the prime tower on (default)
+or use "flush into infill" to cut purge waste.
+Roughly 110 g and 4 h on the X2D (estimate, slice to confirm).
+Assembled size about 93 x 97 x 130 mm.
+
+SECONDARY: Creality K1C (single colour)
+---------------------------------------
+Print body_orange.stl and head_orange.stl (both fit the 220 x 220 bed).
+The inlay STLs are optional: load them with the head as one object for a
+single-colour print, or paint the eyes/nose afterwards.
+
+OPEN / CLOSE
+------------
+Close: set the head on the neck with its face turned about 40 degrees to the
+cat's left, push down, then twist clockwise until it stops. The face now
+points forward and the head is locked.
+Open: twist the head anticlockwise about 40 degrees and lift.
+
+KEY DIMENSIONS (user parameters in facet_cat_stash.f3d)
+wall 2.4, tube_r 16.7, bore_r 17.0, lug_gap 0.6, inlay 1.2 (mm).
+If your printer runs tight, raise bore_r by 0.2. Stash opening 28.6 mm wide.
+STEP included to remix.
+
+Fresh design, not test printed yet. Please post a make if you try it!
