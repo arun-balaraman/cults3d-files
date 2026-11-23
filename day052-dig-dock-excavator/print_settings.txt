@@ -1,0 +1,52 @@
+Dig-Dock Excavator Phone Stand - Day 52 of 365 (designed in Autodesk Fusion)
+============================================================================
+
+A desk excavator that is also a phone stand. Your phone stands in the bucket
+and leans back on the arm at about 72 degrees, and the upper body swivels on
+the tracks via a snap-on pin. Three parts, no glue, no hardware.
+
+Inspired by the CT132 Mobile Excavator 1:14, one of the most-liked new models
+on Cults3D this fortnight: https://cults3d.com/en/search?q=CT132+Mobile+Excavator
+Our twist: not a scale model but a small desk toy that does a job. The bucket
+is a phone cradle, the arm is the backrest, and the cab swivels.
+
+PRIMARY: Bambu Lab X2D + AMS 2 Pro (Bambu Studio)
+-------------------------------------------------
+Open dig_dock_excavator_X2D.3mf. All three parts on one plate, colours set:
+  AMS slot 1  yellow    #F7BA1E  -> arm and upper body
+  AMS slot 2  charcoal  #303238  -> track base
+  AMS slot 3  blue      #78BEEB  -> cab windows (inlays, 13 mm band only)
+PLA or PETG, 0.2 mm layers, 3 walls, 15% infill, no supports, no brim.
+Orientation is already set:
+  - base flat on its tracks, swivel pin pointing up
+  - upper body standing on its bottom (the pin socket is a plain bore with a
+    45 degree roof on the snap groove, so it needs no support)
+  - arm lying on its side (it is a flat profile, 24 mm thick; the dovetail
+    flanks are 45 degrees)
+Each part is a single colour except the body, where blue only appears in the
+window band, so purge waste is small.
+Roughly 130 g and 4.5 h on the X2D (estimate, slice to confirm).
+Assembled size 167 x 78 x 132 mm.
+
+SECONDARY: Creality K1C (single colour)
+---------------------------------------
+All parts fit the 220 x 220 bed. Print base_charcoal.stl, body_yellow.stl and
+arm_yellow.stl. windows_blue.stl is optional: load it with the body as one
+object for single colour, or pause at Z 25 and Z 38 for a colour swap.
+
+ASSEMBLY
+--------
+1. Push the upper body straight down onto the pin in the middle of the tracks
+   until it clicks (the split pin squeezes and the ridge snaps into a groove).
+   It now swivels freely but won't lift off.
+2. Slide the arm's dovetail down into the slot on the front of the body until
+   it stops. The bucket should just touch the desk.
+3. Stand your phone in the bucket and lean it back on the arm. The bucket slot
+   is 13 mm wide, so most phones fit with a case on.
+
+KEY DIMENSIONS (user parameters in dig_dock_excavator.f3d)
+pin_r 8.0, pin_gap 0.4, snap 0.8, dove_gap 0.25, slot_w 13, lip_h 13 (mm),
+lean 72 deg. If the arm slides in too tight, sand the dovetail lightly or
+reprint it with a larger dove_gap. STEP included to remix.
+
+Fresh design, not test printed yet. Please post a make if you try it!
