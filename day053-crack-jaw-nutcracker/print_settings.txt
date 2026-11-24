@@ -1,0 +1,49 @@
+Crack-Jaw Nutcracker Soldier - Day 53 of 365
+============================================
+
+A classic Christmas nutcracker soldier whose jaw really works. The white
+beard is a lever: it pivots on a pin through the head, and its handle runs
+down his back. Lift the handle to open the mouth, drop a nut in, press the
+handle down to close the jaw. Three parts, no glue.
+
+Inspired by the nutcracker designs trending on Cults3D this Christmas
+(for example the Nutcracker christmas mask): https://cults3d.com/en/search?q=nutcracker
+Our twist: an original soldier with a working lever jaw, printed in 4 colours.
+
+BAMBU LAB X2D + AMS (Bambu Studio)
+----------------------------------
+Open crack_jaw_nutcracker_X2D.3mf. All three parts on one plate, colours set:
+  AMS slot 1  red    #C81E28  -> jacket and arms
+  AMS slot 2  black  #232328  -> base, boots, belt, hat, eyes, pivot pin
+  AMS slot 3  white  #F5F5F0  -> trousers, buttons, moustache, hair, beard lever
+  AMS slot 4  skin   #F2C8A0  -> neck and face
+PLA, 0.2 mm layers, 3 walls, 15% infill, no supports, no brim.
+Orientation is already set: the soldier stands upright, the beard lever lies
+flat on its side, the pin stands on its cap. Colour changes are mostly whole
+height bands (boots, trousers, jacket, face, hat), so purge is moderate.
+Roughly 110 g and 6.5 h (estimate, slice to confirm).
+Assembled size 68 x 68 x 181 mm.
+
+SINGLE-COLOUR PRINTERS (e.g. Creality K1C)
+------------------------------------------
+Every part fits a 220 x 220 bed. Load body_red, body_black, body_white and
+body_skin together as one object (they line up) and print in one colour, or
+paint it afterwards. Print jaw_white.stl and pin_black.stl separately.
+
+ASSEMBLY
+--------
+1. Slide the beard lever into the slot in the head from behind, beard to the
+   front, handle hanging down his back.
+2. Line the hole in the lever up with the holes in the head and push the pin
+   in from his right side (the side with the recessed hole). The far hole is
+   a press fit, so push firmly until the cap sits in its recess.
+3. Lift the handle to open the jaw, drop in a nut, and press the handle down.
+   Best with soft nuts (peanuts, pistachios); hard walnuts may be too much for
+   plastic. Also makes a nice decoration.
+
+KEY PARAMETERS (in the source model)
+jaw_gap 0.6 (lever side clearance), pin_r 3.0, pin_free 0.3 (lever hole
+clearance), pin_press 0.1 (far-side press fit), mouth 8.5 (mm).
+STEP included to remix.
+
+Fresh design, not test printed yet. Please post a make if you try it!
