@@ -1,0 +1,56 @@
+Beacon Bob Self-Watering Planter - Day 54 of 365
+================================================
+
+A self-watering planter with a lighthouse water gauge. The pot sits in a
+water tank, and a slotted wick foot under the pot reaches down into the water
+so the soil drinks as it needs to. The lighthouse is joined to the tank at the
+bottom, so the water level inside the tower matches the tank. A hollow float
+inside the tower carries the yellow beacon: when the tank is full the beacon
+rises about 30 mm out of the red gallery, and as the water runs low it sinks
+back down. Top up by pouring water into the gallery at the top of the tower.
+
+Inspired by the self-watering planters that are always popular on Cults3D:
+https://cults3d.com/en/search?q=self+watering+planter
+Our twist: an original lighthouse design whose beacon shows the water level.
+
+BAMBU LAB X2D + AMS (Bambu Studio)
+----------------------------------
+Open beacon_bob_planter_X2D.3mf. All three prints on one plate, colours set:
+  AMS slot 1  blue    #2E6DA4  -> tank
+  AMS slot 2  white   #F5F5F0  -> surf crest, lighthouse tower, pot
+  AMS slot 3  red     #C81E28  -> tower bands and gallery
+  AMS slot 4  yellow  #F5C518  -> beacon float
+PETG recommended for the tank (holds water better than PLA), 0.2 mm layers,
+4 walls, 5 bottom layers, 15% infill, no supports.
+Beacon float: print upright as placed, 2 walls, 0-15% infill and a brim
+(it is tall and thin). It has sealed hollows built in so it floats.
+Orientation is already set: tank and pot stand upright, the float stands on
+its round end. Roughly 300 g and 12 h for the whole plate (estimate, slice to
+confirm). Print the parts on separate plates if you prefer shorter jobs.
+Assembled size 148 x 119 x 165 mm. Pot holds a plant up to about 100 mm wide.
+
+SINGLE-COLOUR PRINTERS (e.g. Creality K1C)
+------------------------------------------
+Every part fits a 220 x 220 bed. Print base_one_colour.stl (tank and
+lighthouse as one piece), pot_white.stl and beacon_float_yellow.stl in any
+colours you like.
+
+ASSEMBLY AND USE
+----------------
+1. Drop the float into the top of the lighthouse, round end first. It should
+   slide freely; if it sticks, sand the float lightly.
+2. Fill the pot with potting mix, pressing some into the slotted wick foot,
+   and plant. Lower the pot into the tank with the notch in its rim against
+   the lighthouse.
+3. Pour water into the gallery at the top of the lighthouse until the beacon
+   rises. When the beacon has sunk back into the gallery, it is time to top up.
+4. Water from the top once at planting so the wick foot gets going.
+Tip: test the tank with water before planting. A coat of clear sealer inside
+helps if a print weeps.
+
+KEY PARAMETERS (in the source model)
+bore_r 11 (tower bore radius), bob_r 10 (float radius), wall 2.4 (tank and
+pot walls), travel 30 (beacon rise from empty to full), all in mm.
+STEP included to remix.
+
+Fresh design, not test printed yet. Please post a make if you try it!
