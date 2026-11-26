@@ -1,0 +1,44 @@
+Rook Roll Dice Tower - Day 55 of 365
+====================================
+
+A castle dice tower with its rolling tray built on. Drop your dice in the
+crenellated top: they bounce down three 45-degree baffles inside the tower
+(you can watch them tumble past the arrow-slit windows) and roll out through
+the pointed castle gate onto a felt-green tray. One solid print, no assembly.
+
+Inspired by the dice towers that are always popular with tabletop gamers:
+https://cults3d.com/en/search?q=dice+tower
+Our twist: an original castle design with arrow-slit windows so you can watch
+the roll, a corbelled crown, and a two-tone felt tray in one piece.
+
+BAMBU LAB X2D + AMS (Bambu Studio)
+----------------------------------
+Open rook_roll_tower_X2D.3mf. One object, colours set:
+  AMS slot 1  grey   #8A8F98  -> tower walls, baffles and tray
+  AMS slot 2  dark   #2B2D33  -> crown with crenellations (top 16 mm)
+  AMS slot 3  green  #2E7D4F  -> felt layer on the tray floor
+PLA or PETG, 0.2 mm layers, 3 walls, 15% infill, no supports, no brim.
+Print it standing up exactly as placed. All overhangs (baffle undersides,
+crown corbel, gate arch) are 45 degrees and the window tops are small arches,
+so it prints clean without supports. Colour changes are two whole bands
+(felt floor at the bottom, crown at the top), so purge is low.
+Roughly 215 g and 7 h (estimate, slice to confirm).
+Size 152 x 90 x 160 mm.
+
+SINGLE-COLOUR PRINTERS (e.g. Creality K1C)
+------------------------------------------
+Fits a 220 x 220 bed. Print one_colour.stl in any colour, or load
+main_grey, crown_dark and felt_green together as one object and use a
+filament swap at the layer where the crown starts (Z 142 mm).
+
+DICE
+----
+Every dice path (top opening, between baffles, gate) is at least 24 mm,
+so standard polyhedral sets including d20s roll through freely.
+Tip: a thin felt sticker on the tray floor makes rolls quieter.
+
+KEY PARAMETERS (in the source model)
+wall 2.4, ramp_angle 45, tower_w 70, tower_h 160, tray_l 80, tray_w 90,
+tray_h 20 (mm). STEP included to remix.
+
+Fresh design, not test printed yet. Please post a make if you try it!
