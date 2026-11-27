@@ -1,0 +1,50 @@
+Peek-a-Boo Cat Bookends - Day 56 of 365
+=======================================
+
+A pair of low-poly ginger cat bookends. The head end has the cat's front
+half (face, white bib and paws) and the tail end has its back half with a
+curled, white-tipped tail. Put a row of books between them and the cat looks
+like it is walking behind your books. Each end is one print with the
+colours inlaid, no supports and no glue.
+
+Inspired by the low-poly papercraft cats going viral right now:
+https://cults3d.com/en/search?q=low+poly+cat
+Our twist: the cat is split across two bookends so it seems to pass through
+your book row, and every colour is a flush inlay, so it prints in one go.
+
+BAMBU LAB X2D + AMS (Bambu Studio)
+----------------------------------
+Open peekaboo_cat_bookends_X2D.3mf. Both ends are already placed on one
+256 mm plate with colours set:
+  AMS slot 1  charcoal #2E3034 -> plates and eyes
+  AMS slot 2  ginger   #E2782A -> cat body
+  AMS slot 3  cream    #F3E6C8 -> muzzle, bib, paws, tail tip
+  AMS slot 4  pink     #F08CA0 -> nose and inner ears (head end only)
+PLA (PETG works too), 0.2 mm layers, 3 walls, 15% gyroid infill,
+no supports, no brim needed (the base is 110 mm wide and flat).
+Print them standing exactly as placed. Every overhang on the cat is
+45 degrees or steeper, and the inlays are 1.6 mm deep flush panels.
+Tip: turn on "flush into infill" to cut purge waste.
+Roughly 420 g for the pair plus purge, about 15 h (estimate, slice to confirm).
+You can also print one end per plate with the same file.
+
+SINGLE-COLOUR PRINTERS (e.g. Creality K1C)
+------------------------------------------
+Each end is 173 x 110 x 170 mm and fits a 220 x 220 bed one at a time.
+Print one_colour_head.stl and one_colour_tail.stl in any colour.
+The separate colour STLs (head_1..4, tail_1..3) share the same origin,
+so you can also load them together as one object in any multi-colour slicer.
+
+USING THEM
+----------
+- The 100 mm plate slides under the books; their weight holds the bookend.
+- Six 10 mm recesses underneath take standard self-adhesive rubber bumpers
+  for grip on smooth shelves (optional).
+- The upright is 6 mm thick with the cat body bracing it on the outside.
+- Tail end goes on the left, head end on the right, both plates pointing
+  in under the books. The cat then faces you as it walks to the right.
+
+KEY PARAMETERS (in the source model)
+upright_t 6, base_t 3.2, book_depth 100, pad_d 10.4 (mm). STEP included to remix.
+
+Fresh design, not test printed yet. Please post a make if you try it!
