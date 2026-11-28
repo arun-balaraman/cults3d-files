@@ -1,0 +1,70 @@
+Tally Click - Day 57 of 365
+===========================
+
+A pocket clicker fidget that keeps count. Every press of the coral button
+gives a crisp click and rolls the number drum on by one, so the digit in the
+window counts 0, 1, 2 ... 9 and then starts again. Use it as a fidget, a
+lap counter, a push-up or rep counter, or a tally for anything.
+Four printed parts plus one small rubber band. No glue, no screws.
+
+Inspired by the rubber-band clicker fidgets that are among the most searched
+and printed designs right now: https://cults3d.com/en/search?q=clicker+fidget
+Our twist: the clicker is also a counter. A ratchet and pawl turns a
+ten-sided drum with seven-segment digits, and a sprung detent snaps each
+number square in the window.
+
+BAMBU LAB X2D + AMS (Bambu Studio)
+----------------------------------
+Open tally_click_X2D.3mf. All four parts are placed on one 256 mm plate,
+already in print orientation, with colours set:
+  AMS slot 1  teal     #1F7A8C -> case and lid
+  AMS slot 2  coral    #E8553D -> plunger (button)
+  AMS slot 3  white    #F2F2EE -> number drum
+  AMS slot 4  charcoal #2B2D33 -> digits (inlaid into the drum)
+PLA, 0.16 mm layers (0.2 mm is fine for the case and lid), 3 walls,
+20% infill, no supports, no brim. Every part prints flat as placed:
+  case on its back with the open side up, lid flat, plunger on its side,
+  drum standing on its plain end with the ratchet teeth on top.
+PETG for the plunger is best for long life because its pawl flexes on every
+click (PLA works too). If you want PETG, print the plunger on its own plate.
+About 32 g of filament and roughly 2 h with colour changes (estimate, slice
+to confirm). Tip: turn on "flush into infill" to cut purge waste.
+
+SINGLE-COLOUR PRINTERS (e.g. Creality K1C)
+------------------------------------------
+Everything fits a 220 x 220 bed. Print case_teal.stl, lid_teal.stl,
+plunger_coral.stl and drum_white.stl in any colour(s). The digits on
+drum_white.stl are recessed 0.8 mm, so colour them in with a paint marker
+or fill them with a little acrylic paint and wipe the face.
+digits_charcoal.stl and drum_white.stl share the same origin, so any
+multi-colour slicer can load them together as one object.
+
+WHAT ELSE YOU NEED
+------------------
+One small rubber band for the return spring: a standard loom band
+(the kids' bracelet kind) is perfect. A small hair elastic or a
+6 mm (1/4 inch) orthodontic elastic also works. The band stretches
+between two posts, 22 mm apart at rest and 27 mm when pressed.
+
+ASSEMBLY (about 2 minutes)
+--------------------------
+1. Push the drum onto the round axle inside the case, ratchet teeth
+   towards the open side. Turn it so the 0 shows in the window; it clicks
+   into place on each number.
+2. Loop the rubber band over the post at the bottom of the plunger.
+3. Feed the plunger in from the open side so its stem comes up through
+   the slot in the top. The thin pawl strip sits just above the
+   ratchet teeth.
+4. Hook the free end of the band over the post inside the case (upper back
+   corner). The button should now spring up on its own.
+5. Slide the lid into the grooves from the bottom and push it up until the
+   latch clicks. To open it again, press the narrow tab at the bottom back
+   corner of the lid towards the front and slide the lid back down.
+Press the button: click, and the number goes up by one.
+
+KEY PARAMETERS (in the source model)
+stroke 5, pawl 1.4 thick, 10 ratchet teeth, detent preload 0.3,
+digit inlay 0.8 deep, lid clearance 0.15 per side, axle clearance 0.3,
+button slot clearance 0.4 (mm). STEP included to remix.
+
+Fresh design, not test printed yet. Please post a make if you try it!
